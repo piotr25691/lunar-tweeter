@@ -57,6 +57,7 @@ export function NextImage({
         sizes='100vw'
         style={{
           height: 'auto',
+          width: 'auto',
           maxWidth: '100%',
           maxHeight: '100%'
         }}
